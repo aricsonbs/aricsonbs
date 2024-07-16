@@ -13,14 +13,19 @@
 
 # And learning 
 
-[![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Next.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
 
 
-![Aricson GitHub stats](https://github-readme-stats.vercel.app/api?username=aricsonbs&show_icons=true&theme=tokyonight)
+<a href="https://github.com/aricsonbs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aricsonbs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aricsonbs&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
 
 # Contact me 📲
 
