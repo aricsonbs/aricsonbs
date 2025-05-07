@@ -32,5 +32,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aricson-barbosa-395037160/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aricsonbs)
-<a href="mailto:aricsonbs.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-aricsonbs@gmail.com-%23D14836?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:aricsonbs.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-aricsonbs.dev@gmail.com-%23D14836?style=for-the-badge&logo=gmail"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aricsonbs/)
