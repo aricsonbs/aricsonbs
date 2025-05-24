@@ -10,7 +10,13 @@
 <a href="mailto:aricsonbs.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-aricsonbs.dev@gmail.com-%23D14836?style=for-the-badge&logo=gmail"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aricsonbs/)
 ---
-
+<a href="https://github.com/aricsonbs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aricsonbs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aricsonbs&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  
+  ---
 
  ### Technologies that I use in my day 💻
 
